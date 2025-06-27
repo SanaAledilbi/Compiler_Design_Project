@@ -53,20 +53,20 @@ Output:
 ## 🗂️ Folder Structure
 
 CompilerDesign_Project/
-├── phase1_postfix_IL/
-├── phase2_input_handling/
-├── phase3_compiler_core/
-├── phase4a_codegen_basic/
-├── phase4b_codegen_optimized/
+  ├── phase1_postfix_IL/
+  ├── phase2_input_handling/
+  ├── phase3_compiler_core/
+  ├── phase4a_codegen_basic/
+  ├── phase4b_codegen_optimized/
 
 ---
 
 ## ▶️ How to Run
 
-> For Phase 1 and 2:  
+**For Phase 1 and 2:**  
 Each file has its own `main()` function. To run a specific one, make sure only that file's `main()` is active, and comment out others.
 
-> For Phase 3 and 4:  
+**For Phase 3 and 4:**  
 1. Open the project in Visual Studio.  
 2. Make sure `main.c` is set as the entry point.  
 3. Build the project and run the output.  
