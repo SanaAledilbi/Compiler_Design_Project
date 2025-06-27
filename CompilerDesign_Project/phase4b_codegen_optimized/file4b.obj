@@ -1,0 +1,29 @@
+B:
+while:
+push y
+pop r2
+comp r2,0
+be end while
+push y
+push 1
+pop r1
+pop r2
+sub r2, r1
+push r2
+pop y
+b while
+end while
+ret
+main:
+push x
+push 2
+pop r1
+pop r2
+sub r2, r1
+push r2
+pop r2
+comp r2, 0
+be else
+call B:
+else:
+exit

@@ -1,0 +1,11 @@
+function B()
+begin
+while (y) do
+y=y-1;
+end;
+
+main()
+begin
+if (x-2) then
+B();
+end

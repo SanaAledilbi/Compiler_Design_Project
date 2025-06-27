@@ -1,0 +1,52 @@
+; begin block
+push 12
+pop y
+push 20
+pop x
+while
+push x
+push y
+pop r2
+pop r1
+cmp r2, r1
+be end while
+pop r2
+comp r2,0
+be end while
+; begin block
+push x
+push y
+pop r2
+pop r1
+cmp r2, r1
+ble else
+pop r2
+comp r2, 0
+be else
+push y
+push x
+pop r1
+pop r2
+sub r2, r1
+push r2
+pop y
+else
+push x
+push y
+pop r2
+pop r1
+cmp r2, r1
+bge else
+pop r2
+comp r2, 0
+be else
+push x
+push y
+pop r1
+pop r2
+sub r2, r1
+push r2
+pop x
+else
+b while
+end while

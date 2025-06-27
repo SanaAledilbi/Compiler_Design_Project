@@ -1,0 +1,11 @@
+begin
+y=12;
+x=20;
+while(x!y) do
+begin
+if (x<y) then
+y=y-x;
+if (x>y) then
+x=x-y;
+end;
+end

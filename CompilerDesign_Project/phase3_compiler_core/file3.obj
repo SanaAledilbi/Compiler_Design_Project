@@ -1,0 +1,11 @@
+push 1
+push 3
+pop r1
+pop r2
+sub r2, r1
+push r2
+push t
+pop r1
+pop r2
+add r2, r1
+push r2
