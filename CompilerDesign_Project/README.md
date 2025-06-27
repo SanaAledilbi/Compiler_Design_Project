@@ -52,7 +52,6 @@ Output:
 
 ## 🗂️ Folder Structure
 
-```plaintext
 CompilerDesign_Project/
 ├── phase1_postfix_IL/
 ├── phase2_input_handling/
