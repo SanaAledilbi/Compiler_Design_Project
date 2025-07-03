@@ -74,9 +74,6 @@ Each file has its own `main()` function. To run a specific one, make sure only t
 
 - - -
 
-## 🙋‍♀️ About Me
+## About The Project
 
-- **Name:** Sana Aledilbi  
-- **University:** Qassim University  
-- **Major:** Bachelor's in Computer Science
--  **Year:** 3rd Year – Spring 2025
+-  **Project date:** 3rd Year – Spring 2025
