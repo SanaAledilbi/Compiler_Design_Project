@@ -26,27 +26,11 @@ The project consists of four main phases:
 - Includes a centralized `main.c` file to drive the compilation process.
 - Generates object code files (`.obj`) and error logs (`.err`, `.exp`).
 
-### 🖼️ Phase 3 Example
-
-Input:
-![Input Example](images/phase3_input.png)
-
-Output:
-![Output Example](images/phase3_output.png)
-
 ### 📌 Phase 4 – Code Generation
 - Divided into:
   - **Phase 4a**: Basic code generation output.
   - **Phase 4b**: Improved version with optimizations.
 - Both phases include full compiler flow and output files for testing.
-
-### 🖼️ Phase 4b Example
-
-Input:
-![Input Example](images/phase4b_input.png)
-
-Output:
-![Output Example](images/phase4b_output.png)
 
 ---
 
