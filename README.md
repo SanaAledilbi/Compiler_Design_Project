@@ -29,10 +29,10 @@ The project consists of four main phases:
 ### 🖼️ Phase 3 Example
 
 Input:
-![Input Example](images/phase3_input.png)
+![Input Example](CompilerDesign_Project/images/phase3_input.png)
 
 Output:
-![Output Example](images/phase3_output.png)
+![Output Example](CompilerDesign_Project/images/phase3_output.png)
 
 ### 📌 Phase 4 – Code Generation
 - Divided into:
@@ -43,10 +43,10 @@ Output:
 ### 🖼️ Phase 4b Example
 
 Input:
-![Input Example](images/phase4b_input.png)
+![Input Example](CompilerDesign_Project/images/phase4b_input.png)
 
 Output:
-![Output Example](images/phase4b_output.png)
+![Output Example](CompilerDesign_Project/images/phase4b_output.png)
 
 ---
 
