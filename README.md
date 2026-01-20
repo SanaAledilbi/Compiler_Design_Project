@@ -1,4 +1,4 @@
-# Compiler Design Project
+# Compiler Design using C
 
 A multi-phase compiler front-end implementation in C, built step-by-step to understand compiler concepts from basic postfix parsing to code generation.
 
