@@ -42,18 +42,18 @@ The project consists of four main phases:
 ### Phase 3
 
 **Input:**
-![Input Example](CompilerDesign_Project/images/phase3_input.png)
+![Input Example](images/phase3_input.png)
 
 **Output:**
-![Output Example](CompilerDesign_Project/images/phase3_output.png)
+![Output Example](images/phase3_output.png)
 
 ### Phase 4b
 
 **Input:**
-![Input Example](CompilerDesign_Project/images/phase4b_input.png)
+![Input Example](images/phase4b_input.png)
 
 **Output:**
-![Output Example](CompilerDesign_Project/images/phase4b_output.png)
+![Output Example](images/phase4b_output.png)
 
 ---
 
@@ -107,4 +107,5 @@ This project is open source and available for educational purposes.
 
 **Sana Aledilbi**  
 [GitHub Profile](https://github.com/SanaAledilbi)
+
 
